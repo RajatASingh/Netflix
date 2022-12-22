@@ -1,5 +1,6 @@
 # Netflix
 Netflix Data Analysis In Python & Tableau;
+https://public.tableau.com/app/profile/rajat.singh4828/viz/NetflixAnalysis_16717089263470/NetflixAnalysis
 
 ![image](https://user-images.githubusercontent.com/105695431/209193871-3fa9f0cb-2e1c-42b3-b5e7-3f8772351dcc.png)
 ![image](https://user-images.githubusercontent.com/105695431/209193884-1525cb5e-6d53-440a-a6b5-2dce708b3701.png)
